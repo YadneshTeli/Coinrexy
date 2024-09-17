@@ -33,7 +33,6 @@ const Home = () => {
         textAlign={'center'}
         fontWeight={'thin'}
         color={'whiteAlpha.900'}
-        mt={'2'}
       >
         COINREX
       </Text>
